@@ -1,0 +1,13 @@
+# serializer version: 1
+# name: test_smaller_than_five[1-2]
+  True
+# ---
+# name: test_smaller_than_five[3-1]
+  True
+# ---
+# name: test_smaller_than_five[4-2]
+  False
+# ---
+# name: test_smaller_than_five[5-3]
+  False
+# ---
